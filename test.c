@@ -2,6 +2,8 @@
 
 int main()
 {
-    printf("hello world\n");
+    int a = 10;
+    printf("hello world!!!\n");
+    printf("The value of a is: %d\n", a);
     return 0;
 }
